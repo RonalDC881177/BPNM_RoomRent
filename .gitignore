@@ -1,2 +1,5 @@
 *.*vpp.bak*
-*.lck*
+*.lck
+
+*.bak_000f
+*.bak_001d
